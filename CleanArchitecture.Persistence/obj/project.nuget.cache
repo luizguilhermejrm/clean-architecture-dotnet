@@ -1,9 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "2htR2/X639DbWKALeQhPweaPXNZGrPVbTeMHJUjWHzwSz4BkEMR8iQLi1PfPL0gQEcIiFEytGbanvfXHViDfMw==",
+  "dgSpecHash": "8vq1WkW9uaNUIPO7DLHVykrQCz0xowjnk9zKfmXXbfPQTv0cngeahdhtHg7ORTTVopyIqEvPWRPyGD6mo+Ahug==",
   "success": true,
   "projectFilePath": "C:\\Users\\Guilherme\\Desktop\\CleanArchitecture\\CleanArchitecture.Persistence\\CleanArchitecture.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Guilherme\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
     "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
