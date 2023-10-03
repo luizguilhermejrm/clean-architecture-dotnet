@@ -9,3 +9,9 @@ C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\obj\D
 C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\refint\CleanArchitecture.Persistence.dll
 C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.pdb
 C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\ref\CleanArchitecture.Persistence.dll
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Application.dll
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Application.pdb
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.csproj.CopyComplete
