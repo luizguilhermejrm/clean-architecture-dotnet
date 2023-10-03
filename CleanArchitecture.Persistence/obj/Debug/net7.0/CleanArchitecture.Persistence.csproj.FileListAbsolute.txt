@@ -1,0 +1,11 @@
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Persistence.deps.json
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Persistence.dll
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\bin\Debug\net7.0\CleanArchitecture.Persistence.pdb
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.dll
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\refint\CleanArchitecture.Persistence.dll
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.pdb
+C:\Users\Guilherme\Desktop\CleanArchitecture\CleanArchitecture.Persistence\obj\Debug\net7.0\ref\CleanArchitecture.Persistence.dll
